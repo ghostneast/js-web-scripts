@@ -1,10 +1,10 @@
 ## JS Codes for your website.
 
-Some few scripts with cool features to make your website unique.
-A longer and slightly more detailed description can be found in the .js files in the form of a comment.
+Some few scripts with cool features to make your website unique.<br>
+A longer and slightly more detailed description can be found in the .js files in the form of a comment.<br>
 They're very simple but useful so feel free to increase it to match your needs or use as a basis for developing other stuffs. 
 
-
+----------------
 ### Current Features
 
 - Disable Inspect Element shortcuts.
